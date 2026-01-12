@@ -22,11 +22,11 @@ Le script attend un tableau avec la structure suivante :
 
 ## 🚀 Installation et Utilisation
 
-1. Créez un nouveau **Google Sheets** avec les colonnes ci-dessus.
+1. Télécharger le fichier CyclingCalendar.xlsx et ouvrir **Google Sheets**
 2. Allez dans `Extensions` > `Apps Script`.
-3. Copiez le code contenu dans `code.js` de ce dépôt et collez-le dans l'éditeur.
+3. Copiez le code contenu dans `addToCalendar.js` de ce dépôt et collez-le dans l'éditeur.
 4. Enregistrez et cliquez sur le bouton **Exécuter** (une autorisation sera demandée lors du premier lancement).
-5. (Optionnel) Créez un bouton dans votre feuille de calcul (Insertion > Dessin) et liez-le à la fonction `addToCalendar`.
+5. Un bouton `Update` a été créé dans la feuille de calcul. Si ce n'est pas le cas à l'import (Insertion > Dessin) et liez-le à la fonction `addToCalendar`.
 
 ## ⚙️ Configuration du Script
 
